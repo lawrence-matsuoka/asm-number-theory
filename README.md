@@ -1,4 +1,4 @@
-raspberry pi for arm
+raspberry pi for ARMv7
 - modular arithmetic
 - collatz conjecture
 - matplotplusplus visualization
