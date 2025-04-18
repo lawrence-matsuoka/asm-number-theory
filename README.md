@@ -13,6 +13,8 @@ taken from https://www.youtube.com/shorts/8kzuhMYM--Y
 
 # Algorithms
 - Euclidean algorithm
+- Extended euclidean algorithm
+- Modular arithmetic
 - Fast exponentiation
 - Fibonacci sequence
 - Primality testing
